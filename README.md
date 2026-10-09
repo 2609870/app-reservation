@@ -22,7 +22,7 @@ Nice to add
 5. ajouter des images pour les items
 6. kits pré faits
 7. kits pré faits pour TP spécifiques
-
+8. réservation de local
 
 - Proposition de valeur : ...
 - Fonctionnalités du MVP :
