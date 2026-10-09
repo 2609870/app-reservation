@@ -4,7 +4,7 @@ Projet conçu en équipe avec : Rémi, Wilsen, Viet
 
 ## Le problème
 
-- Problème : peut se tromper (temps, calendrier, infos perso.), trop d'étapes, doit se rappeler, pas d'images, manque nbr restants
+- Problème : peut se tromper (temps, calendrier, infos perso.), trop d'étapes, doit se rappeler, pas d'images, manque nbr restants, pas réserv. local
 - Persona : étudiant pressé
 
 ## La solution
