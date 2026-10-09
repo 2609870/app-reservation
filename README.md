@@ -9,6 +9,21 @@ Projet conçu en équipe avec : Rémi, Wilsen, Viet
 
 ## La solution
 
+MVP
+1. profil
+2. calendrier automatisé (dates et heures valides uniquement)
+3. calendrier de jours fériés (maj manuelle)
+
+Nice to add
+1. ajouter courte description pour les items semblables
+2. inventaire avec db
+3. UI étudiant, UI ttp
+4. calendrier de jours fériés (maj db)
+5. ajouter des images pour les items
+6. kits pré faits
+7. kits pré faits pour TP spécifiques
+
+
 - Proposition de valeur : ...
 - Fonctionnalités du MVP :
     - En tant que ..., je veux ... afin de ...
