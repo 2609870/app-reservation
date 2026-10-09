@@ -5,7 +5,7 @@ Projet conçu en équipe avec : Rémi, Wilsen, Viet
 ## Le problème
 
 - Problème : peut se tromper, trop d'étapes, doit se rappeler, pas d'images, manque nbr restants
-- Persona : ...
+- Persona : étudiant pressé
 
 ## La solution
 
