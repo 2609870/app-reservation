@@ -30,6 +30,10 @@ Nice to add
 
 ## L'expérience
 
+1. Accueil
+2. Profil
+3. Réservation
+
 ![Schéma de navigation](navigation.png)
 
 ![Écran principal](ecran-principal.jpg)
